@@ -3,7 +3,7 @@
 ## 🚀 프로젝트 개요  
 **RunFluence**는 러닝 입문자 및 러닝을 즐기는 사람들을 위한 커뮤니티와 쇼핑 기능을 결합한 웹 플랫폼입니다.  
 사용자들은 러닝 코스 리뷰를 공유하고, 러닝 관련 상품을 구매하며, 자신의 경험을 나눌 수 있습니다.  
-
+🔗 **GitHub Repository:**(https://github.com/taehyun-sist/PortFolio.git)  
 ---
 
 ## 🔥 개발 의도  
